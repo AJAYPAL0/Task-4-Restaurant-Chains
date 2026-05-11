@@ -1,0 +1,1 @@
+In this task, restaurant chain analysis was performed using Python and Pandas. Restaurants with multiple outlets were identified by analyzing repeated restaurant names. Visualizations were created to show the most popular restaurant chains, highest rated chains, and chains with the highest number of votes using Matplotlib and Seaborn.
